@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       awake     1.0000    0.9851    0.9925       134
+      sleepy     0.9854    1.0000    0.9926       135
+
+    accuracy                         0.9926       269
+   macro avg     0.9927    0.9925    0.9926       269
+weighted avg     0.9927    0.9926    0.9926       269

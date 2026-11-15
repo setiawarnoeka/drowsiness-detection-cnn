@@ -1,0 +1,14 @@
+
+RINGKASAN HASIL PELATIHAN MODEL CNN
+
+Training Accuracy   : 0.9867
+Training Loss       : 0.0397
+Validation Accuracy : 1.0000
+Validation Loss     : 0.0020
+Test Accuracy       : 0.9926
+Test Loss           : 0.0146
+Epoch               : 20
+Batch Size          : 32
+Input Size          : 64 x 64
+Kelas               : ['awake', 'sleepy']
+Model               : drowsiness_model_custom.keras
